@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abhishekrana0909.github.io/ruhani-marg/sitemap.xml
